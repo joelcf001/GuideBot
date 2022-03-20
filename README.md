@@ -66,7 +66,7 @@ Moreover, an image of the shortest route will be displayed in the user's chat. H
 
 |                                                  |                                                              |
 | :----------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./assets/.png" style="zoom: 80%;" /> | <img src="./assets/.png" alt="image_go2" style="zoom:67%;" /> |
+| <img src="./assets/image_go2.png" style="zoom: 80%;" /> | <img src="./assets/image_go2.png" alt="image_go2" style="zoom:67%;" /> |
 
 As you can see, the user must start at a given checkpoint. From there, the user will have to follow every checkpoint until he arrives to the destination. If a user skips a given checkpoint, after a few seconds the whole route will be recalculated, and the user will have to start from his nearest checkpoint.
 
